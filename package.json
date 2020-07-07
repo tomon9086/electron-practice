@@ -1,7 +1,7 @@
 {
   "devDependencies": {},
   "dependencies": {
-    "electron": "^6.0.12"
+    "electron": "^7.2.4"
   },
   "scripts": {
     "start": "electron ./index.js"
